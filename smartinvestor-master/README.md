@@ -8,7 +8,6 @@ A reliable source which helps you to analyze different stocks, and help you make
 Steps for Running the tool:
 
 1) In the files, click on index.html.
-2) Enjoy the loading screens and hit the, "Visit our main page," in the top left corner.
 3) Input your company's revenue and shareholder's equity and be sure to leave a space between them. E.g. 1000.00 789
 4) Click submit and then confirm it. You should see a folder downloading. While downloading, just admire the beauty of the data that compromises the algorithms used to predict your company's profit.
 5) First install IE Tab extension from Chrome Web Store and in the top right corner you should click on the, "e", symbol.
