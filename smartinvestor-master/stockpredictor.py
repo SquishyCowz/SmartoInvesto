@@ -10,7 +10,7 @@ import shutil, os;
 
 
 
-List = open("C:\\Users\\MLH\\Downloads\\info.txt").read().split()
+List = open("C:\\Users\\pskum\\Downloads\\info.txt").read().split()
 
 my_1 = List[0] = float(List[0])
 my_2 = List[1] = float(List[1])
@@ -164,7 +164,8 @@ txt = round(txt, 2)
 txt = txt.astype('str')
 with open("info.txt", "w") as text_file:
     text_file.write(txt)
-
+import subprocess
+subprocess.call("del C:\\Users\\pskum\\Downloads\\info.txt", shell=True )
 print("The final Profit of the company")
 print("\t ↓")
 
